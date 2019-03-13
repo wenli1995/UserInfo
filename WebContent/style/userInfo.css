@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+.head .headLeft{
+	float:left;
+	
+}
+.head .headRight{
+	float:right;
+	padding-top:30px;
+}
+.foot{
+	text-align:center;
+}
+
+.defaultPage{
+	text-align:center;
+	margin-top: 120px;
+	height: 300px;
+}
+
+.table {
+	margin-top:30px;
+}
